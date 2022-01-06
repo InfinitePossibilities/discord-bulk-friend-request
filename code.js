@@ -8,7 +8,7 @@ var failedRequests = 0;
 
 var friend = "Madi";
 
-var timeInterval = 15 * 1000;
+var timeInterval = 20 * 1000;
 
 function stats() {
 	return {
