@@ -2,8 +2,10 @@
 This script allows you to send bulk friend requests
 
 # How to use
-<b>Ctrl + Shift + I</b> and go to "Console" tab. <br />
-Paste in code from code.js and execute/press enter <br />
+1. Navigate to the "Add Friend" section.
+2. <b>Ctrl + Shift + I</b> and go to "Console" tab. <br />
+3. Paste in code from code.js and execute/press enter <br />
+
 To stop the script early, simply type <b>clearInterval(interval);</b> into the console. <br />
 Change the <b>iteration</b> variable to manipulate where the script starts. <br />
 Change the <b>maxIterations</b> variable to manipulate where the script ends. 10000 is the max value. <br />
